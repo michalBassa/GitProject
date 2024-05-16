@@ -1,7 +1,9 @@
 import index from 'index.html'
-const g=5;
+const size=5;
 
-console.log(g * 7);
+console.log(size);
+
+console.log(size * 7);
 
 console.log("hello");
 
@@ -16,3 +18,5 @@ console.log(array);
 console.log(index.toString());
 
 console.log(yehudit1);
+
+console.log("yehudit2");
