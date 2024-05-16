@@ -3,7 +3,7 @@ const size=5;
 
 console.log(size);
 
-console.log(size * 10);
+console.log(size * 20);
 
 console.log("hello");
 
