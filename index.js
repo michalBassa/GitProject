@@ -7,6 +7,6 @@ console.log("Michal Bassa");
 
 console.log("conflict");
 
-const arr=[1,2,3];
+const a=[1,2,3];
 
-console.log(arr);
+console.log(a);
