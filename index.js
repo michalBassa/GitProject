@@ -4,7 +4,6 @@ const count=10;
 
 console.log(size);
 console.log(num*10);
-console.log(num * 7);
 
 console.log("hello");
 
