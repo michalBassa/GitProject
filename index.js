@@ -1,10 +1,10 @@
 import index from 'index.html'
-const sum=5;
+const num=5;
 const count=10;
 
 console.log(size);
-console.log(sum*10);
-console.log(size * 7);
+console.log(num*10);
+console.log(num * 7);
 
 console.log("hello");
 
